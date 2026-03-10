@@ -1,1 +1,1 @@
-s=input("Enter a string")
+txt = "Hello, welcome to my world."
